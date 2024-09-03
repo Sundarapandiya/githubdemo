@@ -1,5 +1,8 @@
 <html>
 <head>
 <title>title goes here</title>
+<body>
+<h1>border colour</h1>
+</body>
 </head>
 </html>
